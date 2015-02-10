@@ -1,0 +1,25 @@
+{
+  "name": "alexfaber2011.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alexfaber2011/alexfaber2011.github.io",
+  "description": "Very small javascript example",
+  "main": "index.html",
+  "keywords": [
+    "clock",
+    "interval"
+  ],
+  "authors": [
+    "Alex Faber (alexfaber2011)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
